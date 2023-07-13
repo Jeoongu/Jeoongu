@@ -1,5 +1,4 @@
-<div align="center">
-<h5 align="center">안녕하세요, 예비 백엔드 개발자 박정우입니다. 현재 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">를 공부중 입니다.</h5>
+<h5>안녕하세요, 예비 백엔드 개발자 박정우입니다. 현재 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">를 공부중 입니다.</h5>
 <!--<img src="https://github.com/Jeoongu/Jeoongu/assets/66074428/a4c3a83b-97b3-446a-84d5-11aec20ab3d5"/><br/>-->
 
 ### TECH STACK
