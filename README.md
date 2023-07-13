@@ -1,4 +1,4 @@
-안녕하세요, 예비 백엔드 개발자 박정우입니다. 현재 <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+안녕하세요, 예비 백엔드 개발자 박정우입니다. 현재 <img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 
 
