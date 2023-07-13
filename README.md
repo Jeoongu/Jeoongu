@@ -1,5 +1,7 @@
 안녕하세요, 예비 백엔드 개발자 박정우입니다. 현재 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">를 공부중 입니다.
 
+## TECH STACK
+<img src="https://img.shields.io/badge/Sprin-6DB381?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 
 
 
