@@ -1,6 +1,6 @@
 ### Hi I'm Jeongu Park 👋
 
-🌱 I’m currently learning <h3>SpringBoot
+🌱 I’m currently learning <bold>SpringBoot
 <!--
 **Jeoongu/Jeoongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
