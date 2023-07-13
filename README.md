@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
 
 ### NOW LEARNING
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoongu&layout=compact)
 
 
 
