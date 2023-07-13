@@ -1,9 +1,18 @@
-### Hi I'm Jeongu Park 👋
+안녕하세요, 예비 백엔드 개발자 박정우입니다. 현재 <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-🌱 I’m currently learning <bold>SpringBoot
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
-**Jeoongu/Jeoongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
