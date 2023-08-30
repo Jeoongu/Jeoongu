@@ -10,6 +10,8 @@
 ### NOW LEARNING
 <img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white"><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoongu&layout=compact)
 
