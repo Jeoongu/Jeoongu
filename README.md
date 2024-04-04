@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic&logo=Amazon RDS&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"><br>
 
 ## Algorithm
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
