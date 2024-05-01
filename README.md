@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white"><br>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white"><br>
 
-## Algorithm
+## ALGORITHM
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoongu&layout=compact)
