@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
 -->
 
-### Experiences
+## Experiences
 - 숭실대학교 멋쟁이사자처럼 11기 백엔드 `2023.03 - 2023.12`
 - 숭실대학교 IT기술위원회 서버 개발 `2024.04 ~`
 
