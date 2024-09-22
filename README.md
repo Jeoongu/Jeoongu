@@ -26,6 +26,9 @@
 - 숭실대학교 IT지원위원회 서버 개발 `2024.04 ~`
 - 11번가 리테일 개발팀 Backend 인턴 `2024.09 ~`
 
+## Certificate
+- 정보처리기사 `2024.09`
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoongu&layout=compact)
 
