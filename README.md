@@ -33,6 +33,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoongu&layout=compact)
 
+<img src="https://komarev.com/ghpvc/?username=jeoongu&color=blue&style=flat-square&label=Profile+Views"/>
 
 
 
